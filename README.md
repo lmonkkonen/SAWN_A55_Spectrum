@@ -1,2 +1,2 @@
 # SAWN_A55_Spectrum
-SAWN_A55_Mass_Spectrum
+Native Mass Spectrum of TerS DNA Binding Domain by Surface Acoustic Wave Nebulization.
